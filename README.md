@@ -1,6 +1,6 @@
 ## 💫 About Me:
 
-- 🔭 **I’m currently working on:** Improving `Frontend development`.<br>
+- 🔭 **I’m currently working on:** Improving `Frontend development` Skills.<br>
 - 👯 **I’m looking to collaborate on:** `Dev Projects`.<br>
 - 🌱 **I’m currently learning:** `MERN Stack`.<br>
 - 👨‍💻 **All of my projects are available at:** [My Projects](https://github.com/jay05narayan)
