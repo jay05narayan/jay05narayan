@@ -6,7 +6,7 @@
 - 👨‍💻 **All of my projects are available at:** [My Projects](https://github.com/jay05narayan)
 - 👨‍💻 Life Hack: Learn new `tech` 🔥 and share what you have learned.🎉
 - 📫 **How to reach me:** jayanarayanm05@gmail.com
-- ⚡ **Fun fact:** I need Coffee Addict😅.
+- ⚡ **Fun fact:** I'm a Coffee Addict😅.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayanarayan-manjunath-48a495231/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jayanarayan05/) 
