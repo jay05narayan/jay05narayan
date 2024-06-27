@@ -21,4 +21,4 @@
 <br><br><br><br><br>
 
 ## Profile Views👩🏻‍💻:
-[![][![](https://visitcount.itsvg.in/api?id=jay05narayan&label=Profile%20Views&color=1&pretty=true)](https://visitcount.itsvg.in)]
+[![][!(https://visitcount.itsvg.in/api?id=jay05narayan&label=Profile%20Views&color=1&pretty=true)](https://visitcount.itsvg.in)]
